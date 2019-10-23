@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="17.831" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="LOGONSERVER" value="\\DESKTOP-4CIJJHN"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.1"/>
+    <property name="TITLE" value="Tomcat"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="LG_PATH" value="D:\HP\LoadRunner\"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="CATALINA_HOME" value="D:\apache-tomcat-9.0.26-windows-x64\apache-tomcat-9.0.26"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="PSModulePath" value="C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;D:\AutoIt3\AutoItX"/>
+    <property name="=::" value="::\"/>
+    <property name="USERDOMAIN" value="DESKTOP-4CIJJHN"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="JAVA_OPTS" value=" -Djdk.tls.ephemeralDHKeySize=2048 -Djava.protocol.handler.pkgs=org.apache.catalina.webresources"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="CURR_DIR" value="D:\HP\LoadRunner\dat\Setup\LoadRunner\MSBuild\..\..\..\.."/>
+    <property name="java.version" value="11.0.1"/>
+    <property name="JOB_NAME" value="Selenium_Demo2019"/>
+    <property name="COMPUTERNAME" value="DESKTOP-4CIJJHN"/>
+    <property name="EXECUTABLE" value="D:\apache-tomcat-9.0.26-windows-x64\apache-tomcat-9.0.26\bin\catalina.bat"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="java.version.date" value="2018-10-16"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="user.name" value="Alolita"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="windir" value="C:\Windows"/>
+    <property name="TQ_HOME" value="D:\testerq"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 158 Stepping 10, GenuineIntel"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="LOCALAPPDATA" value="C:\Users\Alolita\AppData\Local"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/Selenium_Demo2019/3/display/redirect?page=changes"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="user.script" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="NUMBER_OF_PROCESSORS" value="12"/>
+    <property name="BUILD_TAG" value="jenkins-Selenium_Demo2019-3"/>
+    <property name="TERM" value="dumb"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="LOG_FILE" value="C:\Users\Alolita\AppData\Local\Temp\ihp_custom_batches.log"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Users\Alolita\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\M3.5N D:\apache-tomcat-9.0.26-windows-x64\apache-tomcat-9.0.26\webapps\jenkins\WEB-INF\lib\remoting-3.33.jar C:\Users\Alolita\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\Users\Alolita\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 21666"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="JENKINS_SERVER_COOKIE" value="597ba3ced400ed17"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="=D:" value="D:\apache-tomcat-9.0.26-windows-x64\apache-tomcat-9.0.26\bin"/>
+    <property name="Path" value="C:\ProgramData\Oracle\Java\javapath;D:\Oracle11g\product\11.2.0\dbhome_1\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Java\jdk-11.0.1\bin;C:\Program Files (x86)\Google\Chrome\Application;C:\Program Files (x86)\MySQL\MySQL Server 5.5\bin;C:\Users\Alolita\AppData\Local\Google\Chrome\Application;C:\strawberry\c\bin;C:\strawberry\perl\bin;D:\Git\cmd;D:\python3.7.1\Scripts\;D:\python3.7.1\;C:\Users\Alolita\AppData\Local\Microsoft\WindowsApps;;C:\Users\Alolita\AppData\Local\Programs\Fiddler;D:\IntelliJ IDEA 2019.2.2\bin;"/>
+    <property name="LOGGER_CONFIG_PATH" value="D:\HP\LoadRunner\dat\ltlogconf.xml"/>
+    <property name="java.io.tmpdir" value="C:\Users\Alolita\AppData\Local\Temp\"/>
+    <property name="APPDATA" value="C:\Users\Alolita\AppData\Roaming"/>
+    <property name="user.language" value="zh"/>
+    <property name="CATALINA_TMPDIR" value="D:\apache-tomcat-9.0.26-windows-x64\apache-tomcat-9.0.26\temp"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/Selenium_Demo2019/3/"/>
+    <property name="ACTION" value="start"/>
+    <property name="M2_HOME" value="C:\Users\Alolita\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\M3.5N"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="BUILD_DISPLAY_NAME" value="#3"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CATALINA_BASE" value="D:\apache-tomcat-9.0.26-windows-x64\apache-tomcat-9.0.26"/>
+    <property name="HUDSON_SERVER_COOKIE" value="597ba3ced400ed17"/>
+    <property name="TARGETDIR" value="D:\HP\LoadRunner\dat\Setup\LoadRunner\MSBuild\..\..\..\.."/>
+    <property name="JRE_HOME" value="C:\Program Files\Java\jdk-11.0.1"/>
+    <property name="_EXECJAVA" value="start &quot;Tomcat&quot; &quot;C:\Program Files\Java\jdk-11.0.1\bin\java.exe&quot;"/>
+    <property name="_RUNJAVA" value="&quot;C:\Program Files\Java\jdk-11.0.1\bin\java.exe&quot;"/>
+    <property name="MAVEN_HOME" value="C:\Users\Alolita\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\M3.5N"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="maven3.interceptor.common" value="C:\Users\Alolita\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar"/>
+    <property name="LOGGING_CONFIG" value="-Djava.util.logging.config.file=&quot;D:\apache-tomcat-9.0.26-windows-x64\apache-tomcat-9.0.26\conf\logging.properties&quot;"/>
+    <property name="ANALYSIS_PATH" value="D:\HP\LoadRunner\"/>
+    <property name="HOMEPATH" value="\Users\Alolita"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="BUILD_NUMBER" value="3"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="maven3.interceptor" value="C:\Users\Alolita\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.1\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Alolita\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\M3.5N/bin;C:\ProgramData\Oracle\Java\javapath;D:\Oracle11g\product\11.2.0\dbhome_1\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Java\jdk-11.0.1\bin;C:\Program Files (x86)\Google\Chrome\Application;C:\Program Files (x86)\MySQL\MySQL Server 5.5\bin;C:\Users\Alolita\AppData\Local\Google\Chrome\Application;C:\strawberry\c\bin;C:\strawberry\perl\bin;D:\Git\cmd;D:\python3.7.1\Scripts\;D:\python3.7.1\;C:\Users\Alolita\AppData\Local\Microsoft\WindowsApps;;C:\Users\Alolita\AppData\Local\Programs\Fiddler;D:\IntelliJ IDEA 2019.2.2\bin;;."/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="POM_GROUPID" value="Automation"/>
+    <property name="POM_ARTIFACTID" value="Selenium"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="JSSE_OPTS" value="-Djdk.tls.ephemeralDHKeySize=2048"/>
+    <property name="LOGGING_MANAGER" value="-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager"/>
+    <property name="_RUNJDB" value="&quot;C:\Program Files\Java\jdk-11.0.1\bin\jdb.exe&quot;"/>
+    <property name="LR_ROOT" value="D:\HP\LoadRunner\"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/Selenium_Demo2019/"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/Selenium_Demo2019/3/display/redirect"/>
+    <property name="MAINCLASS" value="org.apache.catalina.startup.Bootstrap"/>
+    <property name="FTP_PASSIVE" value="1"/>
+    <property name="JENKINS_HOME" value="C:\Users\Alolita\.jenkins"/>
+    <property name="TEMP" value="C:\Users\Alolita\AppData\Local\Temp"/>
+    <property name="BUILD_ID" value="3"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.1\bin"/>
+    <property name="VUGEN_PATH" value="D:\HP\LoadRunner\"/>
+    <property name="JDK_JAVA_OPTIONS" value=" --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.variant" value=""/>
+    <property name="PROCESSOR_REVISION" value="9e0a"/>
+    <property name="POM_VERSION" value="1.0-SNAPSHOT"/>
+    <property name="configsetroot" value="C:\Windows\ConfigSetRoot"/>
+    <property name="HUDSON_HOME" value="C:\Users\Alolita\.jenkins"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="PATH+MAVEN" value="C:\Users\Alolita\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\M3.5N/bin"/>
+    <property name="IntelliJ IDEA" value="D:\IntelliJ IDEA 2019.2.2\bin;"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="DESKTOP-4CIJJHN"/>
+    <property name="SCITE_USERHOME" value="C:\Users\Alolita\AppData\Local\AutoIt v3\SciTE"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="CURRENT_DIR" value="D:\apache-tomcat-9.0.26-windows-x64\apache-tomcat-9.0.26\bin"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk-11.0.1"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="USERPROFILE" value="C:\Users\Alolita"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/Selenium_Demo2019/display/redirect"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\Alolita"/>
+    <property name="USERNAME" value="Alolita"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="user.dir" value="G:\Selenium"/>
+    <property name="maven.conf" value="C:\Users\Alolita\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\M3.5N\conf"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="TMP" value="C:\Users\Alolita\AppData\Local\Temp"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="java.vm.version" value="11.0.1+13-LTS"/>
+    <property name="java.class.path" value="C:\Users\Alolita\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.13.jar;C:\Users\Alolita\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\M3.5N\boot\plexus-classworlds-2.5.2.jar;C:\Users\Alolita\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\M3.5N/conf/logging"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="WORKSPACE" value="C:\Users\Alolita\.jenkins\workspace\Selenium_Demo2019"/>
+    <property name="ComSpec" value="C:\Windows\system32\cmd.exe"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer"/>
+    <property name="SystemRoot" value="C:\Windows"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="FPS_BROWSER_USER_PROFILE_STRING" value="Default"/>
+    <property name="file.separator" value="\"/>
+    <property name="LR_PATH" value="D:\HP\LoadRunner\"/>
+    <property name="java.runtime.version" value="11.0.1+13-LTS"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="user.country" value="CN"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="maven.home" value="C:\Users\Alolita\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\M3.5N"/>
+    <property name="ENDORSED_PROP" value="ignore.endorsed.dirs"/>
+    <property name="JOB_BASE_NAME" value="Selenium_Demo2019"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="POM_DISPLAYNAME" value="Selenium"/>
+    <property name="sun.arch.data.model" value="64"/>
+  </properties>
+  <testcase name="webBack" classname="com.fang.Demo1.BrowerActions" time="7.309"/>
+</testsuite>

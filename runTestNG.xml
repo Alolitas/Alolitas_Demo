@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite" parallel="methods" thread-count="3">
+  <test name="Selenium">
+    <classes>
+      <class name="com.fang.Demo1.BrowerActions">
+        <methods>
+          <exclude name="webBack"/>
+        </methods>
+      </class> <!-- com.fang.Demo1.BrowerActions -->
+    </classes>
+  </test> <!-- Selenium -->
+</suite> <!-- Default Suite -->
